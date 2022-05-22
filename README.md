@@ -1,6 +1,6 @@
-# Postgres - Laboratory 4 - UV
+# Postgres - Lab 4 - UV
 
-Jhonatan Castrillón González<br>
-Rosa Isabel Rosero 
+* Jhonatan Castrillón González
+* Rosa Isabel Rosero 
 
 Universidad del Valle
